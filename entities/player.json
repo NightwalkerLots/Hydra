@@ -134,37 +134,7 @@
 							{
 								"test": "has_equipment",
 								"domain": "any",
-								"value": "minecraft:item.soul_campfire"
-							},
-							{
-								"test": "has_equipment",
-								"domain": "any",
 								"value": "minecraft:fire"
-							},
-							{
-								"test": "has_equipment",
-								"domain": "any",
-								"value": "minecraft:item.chain"
-							},
-							{
-								"test": "has_equipment",
-								"domain": "any",
-								"value": "minecraft:item.warped_door"
-							},
-							{
-								"test": "has_equipment",
-								"domain": "any",
-								"value": "minecraft:item.crimson_door"
-							},
-							{
-								"test": "has_equipment",
-								"domain": "any",
-								"value": "minecraft:item.campfire"
-							},
-							{
-								"test": "has_equipment",
-								"domain": "any",
-								"value": "minecraft:item.kelp"
 							},
 							{
 								"test": "has_equipment",
@@ -179,32 +149,7 @@
 							{
 								"test": "has_equipment",
 								"domain": "any",
-								"value": "minecraft:item.wooden_door"
-							},
-							{
-								"test": "has_equipment",
-								"domain": "any",
-								"value": "minecraft:item.iron_door"
-							},
-							{
-								"test": "has_equipment",
-								"domain": "any",
-								"value": "minecraft:item.cake"
-							},
-							{
-								"test": "has_equipment",
-								"domain": "any",
-								"value": "minecraft:item.reeds"
-							},
-							{
-								"test": "has_equipment",
-								"domain": "any",
-								"value": "minecraft:item.camera"
-							},
-							{
-								"test": "has_equipment",
-								"domain": "any",
-								"value": "minecraft:item.frame"
+								"value": "minecraft:camera"
 							},
 							{
 								"test": "has_equipment",
@@ -219,12 +164,42 @@
 							{
 								"test": "has_equipment",
 								"domain": "any",
-								"value": "minecraft:item.cake"
+								"value": "minecraft:reserved6"
 							},
 							{
 								"test": "has_equipment",
 								"domain": "any",
-								"value": "minecraft:item.flower_pot"
+								"value": "minecraft:target"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:chemical_heat"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:glow_stick"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:soul_fire"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:border_block"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:structure_block"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:info_update"
 							},
 							{
 								"test": "has_equipment",
@@ -239,12 +214,7 @@
 							{
 								"test": "has_equipment",
 								"domain": "any",
-								"value": " minecraft:movingblock"
-							},
-							{
-								"test": "has_equipment",
-								"domain": "any",
-								"value": "minecraft:movingblock"
+								"value": "minecraft:end_portal"
 							},
 							{
 								"test": "has_equipment",
@@ -259,28 +229,22 @@
 							{
 								"test": "has_equipment",
 								"domain": "any",
-								"value": "minecraft:bucket:2"
+								"value": "minecraft:bubble_column"
 							},
 							{
 								"test": "has_equipment",
 								"domain": "any",
-								"value": "minecraft:bucket:3"
+								"value": "minecraft:netherreactor"
 							},
-							{
-								"test": "has_equipment",
-								"domain": "any",
-								"value": "minecraft:bucket:4"
-							},
-{
-								"test": "has_equipment",
-								"domain": "any",
-								"value": "minecraft:bucket:5"
-							},
-
 							{
 								"test": "has_equipment",
 								"domain": "any",
 								"value": "minecraft:glowingobsidian"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:structure_void"
 							},
 							{
 								"test": "has_equipment",
@@ -290,12 +254,142 @@
 							{
 								"test": "has_equipment",
 								"domain": "any",
+								"value": "minecraft:monster_egg"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
 								"value": "minecraft:flowing_lava"
 							},
 							{
 								"test": "has_equipment",
 								"domain": "any",
-								"value": "minecraft:item.nether_sprouts"
+								"value": "minecraft:water"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:lava"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:end_gateway"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:pufferfish_bucket"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:salmon_bucket"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:tropical_fish_bucket"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:cod_bucket"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:command_block_minecart"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:activator_rail"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:activator_rail"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:light_block"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:jigsaw"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:map"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:empty_map"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:filled_map"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:writable_book"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:end_portal_frame"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:ender_chest"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:barrier"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:bedrock"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:crossbow"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:mob_spawner"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:dispenser"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:command_block"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:chain_command_block"
+							},
+							{
+								"test": "has_equipment",
+								"domain": "any",
+								"value": "minecraft:repeating_command_block"
 							}
 						]
 					},
