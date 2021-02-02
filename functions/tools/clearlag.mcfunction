@@ -1,1 +1,5 @@
-tag @e[type=!armor_stand,type=!player,tag=!keep] add delete
+gamerule doentitydrops false
+kill @e[family=monster]
+kill @e[type=item]
+kill @e[type=arrow]
+gamerule doentitydrops true

@@ -32,5 +32,9 @@ tellraw @s {"rawtext":[{"text":"================================================
 tellraw @s {"rawtext":[{"text":"§bmodules/NoEntitySpam"}]}
 tellraw @s {"rawtext":[{"text":"-§cif entities are spammed by a hacker said hacker will be banned, this will not affect normal players"}]}
 tellraw @s {"rawtext":[{"text":"================================================}]}
-
-
+tellraw @s {"rawtext":[{"text":"§bmodules/illegalitemkick"}]}
+tellraw @s {"rawtext":[{"text":"-§cBans players who have exessively spawned in illegal items"}]}
+tellraw @s {"rawtext":[{"text":"================================================}]}
+tellraw @s {"rawtext":[{"text":"§bmodules/lagclearticker"}]}
+tellraw @s {"rawtext":[{"text":"-§cWhen enabled, will automatically clear all dropped items and hostile entities every 6 minutes with 30 second warning"}]}
+tellraw @s {"rawtext":[{"text":"================================================}]}

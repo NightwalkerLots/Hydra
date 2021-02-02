@@ -11,4 +11,4 @@ execute @s[scores={warn=1}] ~~~ tellraw @s {"rawtext":[{"text":"§¶§c► Hydra
 execute @s[scores={warn=2}] ~~~ tellraw @s {"rawtext":[{"text":"§¶§c► Hydra - You have been Warned. Your next warning will result in a Season Ban. [2/3]"}]}
 
 execute @s[scores={warn=2}] ~~~ me §¶§c► Hydra - Kicked for Illegal Items
-/tag @s[scores={warn=3}] add illegalitemban
+tag @s[scores={warn=3}] add illegalitemban
