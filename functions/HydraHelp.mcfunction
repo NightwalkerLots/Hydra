@@ -38,3 +38,6 @@ tellraw @s {"rawtext":[{"text":"================================================
 tellraw @s {"rawtext":[{"text":"§bmodules/lagclearticker"}]}
 tellraw @s {"rawtext":[{"text":"-§cWhen enabled, will automatically clear all dropped items and hostile entities every 6 minutes with 30 second warning"}]}
 tellraw @s {"rawtext":[{"text":"================================================}]}
+tellraw @s {"rawtext":[{"text":"§bmodules/itemcommands"}]}
+tellraw @s {"rawtext":[{"text":"-§cWhen enabled, will allow players to use item commands"}]}
+tellraw @s {"rawtext":[{"text":"================================================}]}
