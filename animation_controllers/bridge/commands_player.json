@@ -17,9 +17,9 @@
 						}
 					],
 					"on_entry": [
-						"/replaceitem entity @p[tag=!staff] slot.weapon.mainhand 0 air",
-						"/execute @s[tag=!staff] ~~~ me §¶§c►Hydra - That item is banned",
-						"/execute @s[tag=!staff] ~~~ function tools/illegalitemwarn",
+						"/replaceitem entity @p[tag=!hstaff] slot.weapon.mainhand 0 air",
+						"/execute @s[tag=!hstaff] ~~~ me §¶§c►Hydra - That item is banned",
+						"/execute @s[tag=!hstaff] ~~~ function tools/illegalitemwarn",
 						"@s bridge:remove_command_id_1"
 					]
 				}

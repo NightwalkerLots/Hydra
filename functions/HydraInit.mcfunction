@@ -20,7 +20,4 @@ scoreboard objectives add flyreset dummy
 scoreboard objectives add HSTTS dummy
 //hstts = hydra server tick time system
 tellraw @a {"rawtext":[{"text":"§asuccesfully initialized!"}]}
-tellraw @a {"rawtext":[{"text":"§cneed more help? run §d/function HydraHelp"}]}
-
-
-
+tellraw @a {"rawtext":[{"text":"§cneed more help? run §d/function help"}]}

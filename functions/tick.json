@@ -1,3 +1,7 @@
 {
-    "values": ["HydraMain"]
+    "values":
+    [
+      "HydraMain",
+      "settings/settings"
+    ]
 }
